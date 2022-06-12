@@ -4,4 +4,7 @@ A java implementation of a RAFT consensus algorithm that strives to be simple an
 
 # Features
 
-TODO
+- Leader selection
+- Log replication
+- Security
+- Cluster membership changes
